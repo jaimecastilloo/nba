@@ -1,5 +1,5 @@
 Date,Start (ET),Visitor/Neutral,PTS,Home/Neutral,PTS,,,Attend.,LOG,Arena,Notes
-Tue Oct 21 2025,7:30p,Houston Rockets,124,Oklahoma City Thunder,125,Box Score,2OT,18203,3:15,Paycom Center,
+Tue Oct 21 2025,7:30p,Houston Rockets,124,Oklahoma City Thunder,135,Box Score,2OT,18203,3:15,Paycom Center,
 Tue Oct 21 2025,10:00p,Golden State Warriors,119,Los Angeles Lakers,109,Box Score,,18997,2:26,Crypto.com Arena,
 Wed Oct 22 2025,7:00p,Brooklyn Nets,117,Charlotte Hornets,136,Box Score,,19516,2:28,Spectrum Center,
 Wed Oct 22 2025,7:00p,Cleveland Cavaliers,111,New York Knicks,119,Box Score,,19812,2:28,Madison Square Garden (IV),
@@ -78,4 +78,5 @@ Fri Oct 31 2025,8:00p,New York Knicks,125,Chicago Bulls,135,Box Score,,18330,2:2
 Fri Oct 31 2025,9:30p,Los Angeles Lakers,117,Memphis Grizzlies,112,Box Score,,16122,2:20,FedExForum,NBA Cup
 Fri Oct 31 2025,10:00p,Utah Jazz,96,Phoenix Suns,118,Box Score,,17071,2:18,Mortgage Matchup Center,NBA Cup
 Fri Oct 31 2025,10:00p,Denver Nuggets,107,Portland Trail Blazers,109,Box Score,,16382,2:40,Moda Center,NBA Cup
+
 Fri Oct 31 2025,10:30p,New Orleans Pelicans,124,Los Angeles Clippers,126,Box Score,,16083,2:17,Intuit Dome,NBA Cup
